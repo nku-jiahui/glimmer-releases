@@ -1,4 +1,4 @@
-# Glimmer 0.2.2 稳定性测试
+# Glimmer 0.2.3 稳定性测试
 
 [下载入口](README.md) · [使用说明](USAGE.md)
 
